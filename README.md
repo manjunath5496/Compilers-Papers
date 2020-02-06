@@ -12,6 +12,9 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/cio(9).pdf" style="text-decoration:none;">Understanding and Writing Compilers</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/cio(10).pdf" style="text-decoration:none;">Compilers and Compiler Generators</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/cio(11).pdf" style="text-decoration:none;">Introduction to Compiler</a></b></li>
+                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/cio(12).pdf" style="text-decoration:none;">An Overview of a Compiler</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Compilers-Papers/blob/master/cio(13).pdf" style="text-decoration:none;">Modern Compiler Design</a></b></li>               
 
   
                
